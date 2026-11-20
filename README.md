@@ -1,12 +1,12 @@
 <!-- Animated wave header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:4F46E5,50:7C3AED,100:06B6D4&text=Hridhan%20G&fontColor=ffffff&fontSize=64&fontAlignY=36&animation=fadeIn&desc=Student%20Founder%20of%20Genexts%20AI&descAlignY=58&descSize=20" alt="Hridhan G — Student Founder of Genexts AI" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:4F46E5,50:7C3AED,100:06B6D4&text=Hridhan%20Gaikwad&fontColor=ffffff&fontSize=58&fontAlignY=36&animation=fadeIn&desc=Student%20Founder%20of%20Genexts%20AI&descAlignY=58&descSize=20" alt="Hridhan Gaikwad — Student Founder of Genexts AI" width="100%" />
 </p>
 
 <!-- Animated typing intro -->
 <p align="center">
   <a href="https://genexts.ai">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=900&color=7C3AED&center=true&vCenter=true&width=640&lines=Hi%2C+I%27m+Hridhan+from+India;I+built+Genexts+AI;One+place+for+every+great+AI;Chat+%C2%B7+Build+%C2%B7+Images+%C2%B7+Spot+Bots;Free+to+start+%E2%80%94+no+card+needed" alt="Typing intro: Hi, I'm Hridhan from India. I built Genexts AI." />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=900&color=7C3AED&center=true&vCenter=true&width=640&lines=Hi%2C+I%27m+Hridhan+Gaikwad+from+India;I+made+Genexts+AI;Built+by+Hridhan+Gaikwad;One+place+for+every+great+AI;Chat+%C2%B7+Build+%C2%B7+Images+%C2%B7+Spot+Bots;Free+to+start+%E2%80%94+no+card+needed" alt="Typing intro: Hi, I'm Hridhan Gaikwad from India. I made Genexts AI. Built by Hridhan Gaikwad." />
   </a>
 </p>
 
@@ -20,16 +20,32 @@
 
 ## 👋 About me
 
-- 🎓 I'm **Hridhan**, a student from **India** 🇮🇳
-- 🚀 I'm the founder and builder of **[Genexts AI](https://genexts.ai)**
+- 🎓 I'm **Hridhan Gaikwad**, a student from **India** 🇮🇳
+- 🚀 I made **[Genexts AI](https://genexts.ai)**. I'm its founder and builder.
 - 🧠 I'm learning coding, server management and how to keep people's data safe by building something real
 - 🎮 I also make games and web projects. You'll find them below.
 
 > *"I built Genexts AI so anyone can use all the best AI models in one simple place, without switching between a dozen different apps."*
+>
+> — **Hridhan Gaikwad**
 
 ---
 
 ## ✨ Genexts AI — *One place for every great AI*
+
+<!-- Animated "I made Genexts AI" banner -->
+<p align="center">
+  <a href="https://genexts.ai">
+    <img src="https://capsule-render.vercel.app/api?type=rect&height=150&color=0:7C3AED,100:06B6D4&text=I%20made%20Genexts%20AI&fontColor=ffffff&fontSize=50&fontAlignY=42&animation=twinkling&desc=Built%20by%20Hridhan%20Gaikwad&descAlignY=74&descSize=22" alt="I made Genexts AI — Built by Hridhan Gaikwad" width="100%" />
+  </a>
+</p>
+
+<!-- Animated typing line -->
+<p align="center">
+  <a href="https://genexts.ai">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2500&pause=1200&color=06B6D4&center=true&vCenter=true&width=600&lines=I+made+Genexts+AI+%F0%9F%9A%80;Built+by+Hridhan+Gaikwad" alt="I made Genexts AI. Built by Hridhan Gaikwad." />
+  </a>
+</p>
 
 It started because I was tired of switching between tabs for every AI service. That small personal project grew into a full platform.
 It's **free to start, with no card needed**. Paid plans add premium models and more tools.
