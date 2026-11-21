@@ -43,7 +43,7 @@
 <!-- Animated typing line -->
 <p align="center">
   <a href="https://genexts.ai">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2500&pause=1200&color=06B6D4&center=true&vCenter=true&width=600&lines=I+made+Genexts+AI+%F0%9F%9A%80;Built+by+Hridhan+Gaikwad" alt="I made Genexts AI. Built by Hridhan Gaikwad." />
+    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=28&duration=2500&pause=1200&color=06B6D4&center=true&vCenter=true&width=600&lines=I+made+Genexts+AI+%F0%9F%9A%80;Built+by+Hridhan+Gaikwad" alt="I made Genexts AI. Built by Hridhan Gaikwad." />
   </a>
 </p>
 
@@ -91,6 +91,58 @@ It's **free to start, with no card needed**. Paid plans add premium models and m
 
 ---
 
+## 🔤 My name in different fonts
+
+### 🎞️ Animated Google Fonts
+
+| Style | Font | Preview |
+|---|---|---|
+| 🚀 Futuristic | Orbitron | <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=26&duration=2500&pause=1000&color=06B6D4&center=true&vCenter=true&width=560&height=55&lines=Hridhan+Gaikwad;I+made+Genexts+AI" alt="Hridhan Gaikwad, I made Genexts AI (Orbitron font)" /> |
+| 👾 Pixel / retro game | Press Start 2P | <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=20&duration=2500&pause=1000&color=22C55E&center=true&vCenter=true&width=560&height=55&lines=Hridhan+Gaikwad;I+made+Genexts+AI" alt="Hridhan Gaikwad, I made Genexts AI (Press Start 2P font)" /> |
+| 💡 Neon | Monoton | <img src="https://readme-typing-svg.demolab.com?font=Monoton&size=28&duration=2500&pause=1000&color=A855F7&center=true&vCenter=true&width=560&height=60&lines=Hridhan+Gaikwad;I+made+Genexts+AI" alt="Hridhan Gaikwad, I made Genexts AI (Monoton font)" /> |
+| ✒️ Script | Pacifico | <img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=30&duration=2500&pause=1000&color=EC4899&center=true&vCenter=true&width=560&height=60&lines=Hridhan+Gaikwad;I+made+Genexts+AI" alt="Hridhan Gaikwad, I made Genexts AI (Pacifico font)" /> |
+| ✍️ Handwriting | Caveat | <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=700&size=34&duration=2500&pause=1000&color=F59E0B&center=true&vCenter=true&width=560&height=60&lines=Hridhan+Gaikwad;I+made+Genexts+AI" alt="Hridhan Gaikwad, I made Genexts AI (Caveat font)" /> |
+| 📰 Bold poster | Bebas Neue | <img src="https://readme-typing-svg.demolab.com?font=Bebas+Neue&size=36&duration=2500&pause=1000&color=7C3AED&center=true&vCenter=true&width=560&height=60&lines=Hridhan+Gaikwad;I+made+Genexts+AI" alt="Hridhan Gaikwad, I made Genexts AI (Bebas Neue font)" /> |
+| 🎩 Elegant serif | Playfair Display | <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=700&size=30&duration=2500&pause=1000&color=4F46E5&center=true&vCenter=true&width=560&height=60&lines=Hridhan+Gaikwad;I+made+Genexts+AI" alt="Hridhan Gaikwad, I made Genexts AI (Playfair Display font)" /> |
+| 🍭 Retro | Lobster | <img src="https://readme-typing-svg.demolab.com?font=Lobster&size=30&duration=2500&pause=1000&color=EF4444&center=true&vCenter=true&width=560&height=60&lines=Hridhan+Gaikwad;I+made+Genexts+AI" alt="Hridhan Gaikwad, I made Genexts AI (Lobster font)" /> |
+| 💻 Code | Fira Code | <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2500&pause=1000&color=38BDF8&center=true&vCenter=true&width=560&height=55&lines=Hridhan+Gaikwad;I+made+Genexts+AI" alt="Hridhan Gaikwad, I made Genexts AI (Fira Code font)" /> |
+
+### 🔣 Unicode letter styles
+
+These are special Unicode letters, so you can copy and paste them anywhere.
+Screen readers may not read them well, so the important info on this page stays in normal text.
+
+| Style | Text |
+|---|---|
+| Bold | 𝐇𝐫𝐢𝐝𝐡𝐚𝐧 𝐆𝐚𝐢𝐤𝐰𝐚𝐝 |
+| Bold italic | 𝑯𝒓𝒊𝒅𝒉𝒂𝒏 𝑮𝒂𝒊𝒌𝒘𝒂𝒅 |
+| Sans bold | 𝗛𝗿𝗶𝗱𝗵𝗮𝗻 𝗚𝗮𝗶𝗸𝘄𝗮𝗱 |
+| Sans bold italic | 𝙃𝙧𝙞𝙙𝙝𝙖𝙣 𝙂𝙖𝙞𝙠𝙬𝙖𝙙 |
+| Script | 𝓗𝓻𝓲𝓭𝓱𝓪𝓷 𝓖𝓪𝓲𝓴𝔀𝓪𝓭 |
+| Gothic | 𝕳𝖗𝖎𝖉𝖍𝖆𝖓 𝕲𝖆𝖎𝖐𝖜𝖆𝖉 |
+| Double-struck | ℍ𝕣𝕚𝕕𝕙𝕒𝕟 𝔾𝕒𝕚𝕜𝕨𝕒𝕕 |
+| Typewriter | 𝙷𝚛𝚒𝚍𝚑𝚊𝚗 𝙶𝚊𝚒𝚔𝚠𝚊𝚍 |
+| Circled | Ⓗⓡⓘⓓⓗⓐⓝ Ⓖⓐⓘⓚⓦⓐⓓ |
+| Small caps | Hʀɪᴅʜᴀɴ Gᴀɪᴋᴡᴀᴅ |
+| Wide | Ｈｒｉｄｈａｎ Ｇａｉｋｗａｄ |
+
+### 🧩 GitHub text styles
+
+| How to write it | What it looks like |
+|---|---|
+| `**Genexts AI**` | **Genexts AI** |
+| `*Genexts AI*` | *Genexts AI* |
+| `***Genexts AI***` | ***Genexts AI*** |
+| `~~Genexts AI~~` | ~~Genexts AI~~ |
+| `` `Genexts AI` `` | `Genexts AI` |
+| `<ins>Genexts AI</ins>` | <ins>Genexts AI</ins> |
+| `<sup>Genexts AI</sup>` | Hridhan <sup>Genexts AI</sup> |
+| `<sub>Genexts AI</sub>` | Hridhan <sub>Genexts AI</sub> |
+| `<kbd>Genexts AI</kbd>` | <kbd>Genexts AI</kbd> |
+| `<samp>Genexts AI</samp>` | <samp>Genexts AI</samp> |
+
+---
+
 ## 🕹️ My projects
 
 | Project | Link |
@@ -110,6 +162,11 @@ It's **free to start, with no card needed**. Paid plans add premium models and m
 - 🤖 **Genexts AI:** [genexts.ai](https://genexts.ai)
 - 🏠 **My website:** [genexts.com](https://genexts.com)
 - 🐙 **GitHub:** [@CraftechGaming](https://github.com/CraftechGaming)
+
+<!-- Animated thank-you line -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=28&duration=3000&pause=1500&color=7C3AED&center=true&vCenter=true&width=500&height=60&lines=Thanks+for+visiting!;Try+Genexts+AI+free+%E2%9C%A8" alt="Thanks for visiting! Try Genexts AI free." />
+</p>
 
 <!-- Animated wave footer -->
 <p align="center">
